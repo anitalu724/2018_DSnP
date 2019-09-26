@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "unordered_set": "cpp",
+        "iosfwd": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "utility": "cpp",
+        "__locale": "cpp",
+        "iomanip": "cpp"
+    }
+}
